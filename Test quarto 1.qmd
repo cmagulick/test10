@@ -11,6 +11,7 @@ editor: visual
 
 result \<- 2 + 3
 
-x \<- 5+4x
+x <- 5
 
-x
+
+x+5
