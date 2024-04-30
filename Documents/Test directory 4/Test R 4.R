@@ -6,5 +6,3 @@ my_test_name
 my_variable <- 10
 my_variable
 
-my_test_name + 25
-
