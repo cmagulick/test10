@@ -6,3 +6,4 @@ my_test_name
 my_variable <- 10
 my_variable
 
+555*100
